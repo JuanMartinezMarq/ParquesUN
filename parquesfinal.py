@@ -1,7 +1,7 @@
 import pygame
 import random
 
-# Se debe inicializar pygame
+# Inicializar pygame
 pygame.init()
 
 # Definir constantes
